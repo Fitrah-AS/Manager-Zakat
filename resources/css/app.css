@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-zakat-primary: #1B4D3E;
+    --color-zakat-secondary: #0F5132;
+    --color-zakat-accent: #C9A227;
+    --color-zakat-surface: #F4F6F5;
+}
